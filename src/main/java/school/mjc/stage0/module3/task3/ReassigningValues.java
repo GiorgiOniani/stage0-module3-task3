@@ -10,7 +10,7 @@ public class ReassigningValues {
         System.out.println(second);
         System.out.println(third);
         
-        int linkToFrist = first;
+        int linkToFirst = first;
         int linkToSecond = second;
         int linkToThird = third;
         
